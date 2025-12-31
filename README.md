@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raysen24&langs_count=20&layout=compact"/>
+<img alt="top langs" src="https://github-readme-stats-five-gamma-12.vercel.app/api/top-langs/?username=Raysen24&langs_count=20&layout=compact"/>
 
 <!--
 **Raysen24/Raysen24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
